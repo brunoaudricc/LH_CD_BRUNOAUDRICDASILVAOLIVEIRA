@@ -7,12 +7,12 @@ O projeto abrange uma Análise Exploratória dos Dados (EDA), a construção de 
 ## Estrutura do Repositório
 * /
 * ├── content/
-* │   └── desafio_indicium_imdb.csv   # Dados utilizados na análise
-* ├── desafio-lighthouse.ipynb        # Notebook com a EDA e o desenvolvimento do modelo
-* ├── main.pkl                        # Modelo de previsão treinado e salvo
-* ├── main.py                         # Script para interagir com o modelo
-* ├── requirements.txt                # Lista de dependências do projeto
-* └── README.md                       # Este arquivo
+* │   └── desafio_indicium_imdb.csv   / Dados utilizados na análise
+* ├── desafio-lighthouse.ipynb        / Notebook com a EDA e o desenvolvimento do modelo
+* ├── main.pkl                        / Modelo de previsão treinado e salvo
+* ├── main.py                         / Script para interagir com o modelo
+* ├── requirements.txt                / Lista de dependências do projeto
+* └── README.md                       / Este arquivo
   
 ## Como Instalar e Executar o Projeto
 
@@ -25,19 +25,6 @@ O projeto abrange uma Análise Exploratória dos Dados (EDA), a construção de 
 1.  **Clone o Repositório:**
     ```bash
     git clone https://github.com/brunoaudricc/LH_CD_BRUNOAUDRICDASILVAOLIVEIRA.git
-    cd LH_CD_BRUNOAUDRICDASILVAOLIVEIRA
-    ```
-
-2.  **(Opcional, mas recomendado) Crie e Ative um Ambiente Virtual:**
-    ```bash
-    # Crie o ambiente virtual
-    python -m venv venv
-
-    # Ative o ambiente (Windows)
-    .\venv\Scripts\activate
-
-    # Ative o ambiente (macOS/Linux)
-    source venv/bin/activate
     ```
 
 3.  **Instale as Dependências:**
